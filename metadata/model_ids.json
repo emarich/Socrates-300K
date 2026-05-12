@@ -1,0 +1,14 @@
+{
+  "model_id": {
+        "mistralai/Mistral-7B-v0.1": 0,
+        "google/gemma-2-9b": 1,
+        "Upstage/SOLAR-10.7B-v1.0": 2,
+        "microsoft/phi-4": 3,
+        "Qwen/Qwen2.5-14B": 4,
+        "google/gemma-2-27b": 5,
+        "Qwen/Qwen2.5-32B": 6,
+        "deepseek-ai/deepseek-llm-7b-base": 7,
+        "meta-llama/Llama-3.1-8B": 8,
+        "01-ai/Yi-1.5-9B": 9
+  }
+}

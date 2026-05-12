@@ -1,0 +1,22 @@
+# Core ML and Deep Learning
+torch=2.9.1
+transformers=4.57.4
+bitsandbytes>=0.49.1
+
+# Data Processing and Analysis
+pandas=2.3.3
+numpy=2.4.1
+pyarrow=22.0.0
+openpyxl>=3.1.5
+
+# NLP and Text Processing
+nltk>=3.9.2
+
+# Progress and Logging
+tqdm>=4.67.1
+
+# Environment Configuration
+python-dotenv>=1.2.2
+
+# API and External Services
+anthropic>=0.76.0
