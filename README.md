@@ -4,15 +4,12 @@ This repository contains the official code and data for "A Geometric Analysis of
 **Citation:**
 
 ```
-@misc{https://doi.org/10.48550/arxiv.2602.14778,
-  doi = {10.48550/ARXIV.2602.14778},
-  url = {https://arxiv.org/abs/2602.14778},
-  author = {Ricco,  Emanuele and Onofri,  Elia and Cima,  Lorenzo and Cresci,  Stefano and Di Pietro,  Roberto},
-  keywords = {Computation and Language (cs.CL),  Artificial Intelligence (cs.AI),  Computers and Society (cs.CY),  FOS: Computer and information sciences,  FOS: Computer and information sciences},
-  title = {A Geometric Analysis of Small-sized Language Model Hallucinations},
-  publisher = {arXiv},
-  year = {2026},
-  copyright = {arXiv.org perpetual,  non-exclusive license}
+@inproceedings{ricco2026geometric,
+  title     = {A Geometric Analysis of Small-sized Language Model Hallucinations},
+  author    = {Ricco, Emanuele and Onofri, Elia and Cima, Lorenzo and Cresci, Stefano and Di Pietro, Roberto},
+  booktitle = {Proceedings of the 43rd International Conference on Machine Learning (ICML)},
+  year      = {2026},
+  note      = {TODO: pages, volume, publisher once available}
 }
 ```
 ## Repository Structure
